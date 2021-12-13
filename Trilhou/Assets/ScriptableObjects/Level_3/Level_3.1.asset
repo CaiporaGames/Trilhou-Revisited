@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8e4e81c534a8f941b0a885a12ff1e3c, type: 3}
+  m_Name: Level_3.1
+  m_EditorClassIdentifier: 
+  setences:
+  - setences: "Oba, tenho o assunto e as perguntas elaboradas, qual o pr\xF3ximo
+      passo?"
+    names: "Maria Livr\xE3o"
+  - setences: "Com o seu assunto selecionado e as quest\xF5es respondidas,"
+    names: Bibliotecaria
+  - setences: " o pr\xF3ximo passo \xE9 listar ideias e fazer anota\xE7\xF5es sobre
+      o assunto escolhido e realizar os fichamentos."
+    names: Bibliotecaria
+  - setences: "Vamos l\xE1!"
+    names: Bibliotecaria
+  - setences: "Fichamento?? N\xE3o estou entendendo nada!"
+    names: "Maria Livr\xE3o"
+  - setences: "Fichamento, \xE9 um pequeno resumo dos materiais que voc\xEA leu at\xE9
+      agora!"
+    names: Bibliotecaria
+  - setences: "Ahh! Entendi! Ent\xE3o, vou fazer os resumos com muita aten\xE7\xE3o."
+    names: Maria Livrao
+  - setences: Isso mesmo Maria!
+    names: Bibliotecaria
