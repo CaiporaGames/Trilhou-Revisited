@@ -29,10 +29,10 @@ namespace Timoteo
 
 
 
-        AudioSource audioSource;
+        public AudioSource audioSource;
         private void Awake()
         {
-            audioSource = GetComponent<AudioSource>();
+            //audioSource = GetComponent<AudioSource>();
             if (_instance != null && _instance != this)
             {
                 Destroy(gameObject);
@@ -95,11 +95,11 @@ namespace Timoteo
             canPlayAudio.boolean = !canPlayAudio.boolean;
             if (canPlayAudio.boolean)
             {
-                audioSource.Play();
+                audioSource.mute = true;
             }
             else
             {
-                audioSource.Stop();
+                audioSource.mute = false;
             }
         }
 
