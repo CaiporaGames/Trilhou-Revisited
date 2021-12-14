@@ -95,11 +95,11 @@ namespace Timoteo
             canPlayAudio.boolean = !canPlayAudio.boolean;
             if (canPlayAudio.boolean)
             {
-                audioSource.mute = true;
+                audioSource.Play();
             }
             else
             {
-                audioSource.mute = false;
+                audioSource.Stop();
             }
         }
 
