@@ -301,9 +301,10 @@ MonoBehaviour:
     1. Para a crian\xE7a poder ter uma c\xF3pia do certificado, ela deve apertar
     o bot\xE3o printscreen e depois usar o programa Paint do windows para poder salvar
     a imagem no PC. Uma vez salvo o arquivo pode ser impresso!\r\n\r\n<color=blue>Equipe
-    t\xE9cnica</color>:\r\n- Professora Doutora Kenia Kodel (UFS)\r\n- Tim\xF3teo
+    t\xE9cnica</color>:\r\n- Professora Doutora Kenia Kodel Cox (UFS)\r\n- Tim\xF3teo
     Alves Cruz (UFS)\r\n- Lu\xEDs Fernando Feitosa(UFS)\n- Paulo M. Dourado Fernandes
-    (UFS)\r\n\nApoio: PIBIX - UFS"
+    (UFS)\n- Profa. Dra. Edilayne Meneses Salgueiro\r\n (UFS)\n- Vivian Crislayne
+    de Oliveira Santos (UFS)\n- Fernanda Balbino Ferreira \n\nApoio: PIBIX - UFS"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ea4179ba609564f33b822e1be581b321, type: 2}
   m_sharedMaterial: {fileID: 21605244428125924, guid: ea4179ba609564f33b822e1be581b321,
@@ -633,7 +634,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 38.8, y: -103}
+  m_AnchoredPosition: {x: 38.8, y: -118.7}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &803626238
@@ -953,7 +954,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 224.16537}
+  m_SizeDelta: {x: 100, y: 253.36356}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1941994361
 MonoBehaviour:
