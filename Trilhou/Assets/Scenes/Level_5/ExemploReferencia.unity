@@ -1259,7 +1259,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "\xDALTIMO SOBRENOME DO AUTOR, 1\xBA nome do autor. T\xEDtulo da obra.
-    Cidade: editora, ano.\r\n\nExemplo:\r\nROCHA, Ruth. Marcelo, marmelo, martelo.
+    Cidade: editora, ano.\r\n\nExemplo:\r\nROCHA, Ruth. <b>Marcelo, marmelo, martelo</b>.
     S\xE3o Paulo: Salamandra, 2013.\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 9c631e316e3c4cb418db85c0fd6da274, type: 2}
@@ -1288,13 +1288,13 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 4
-  m_fontSizeBase: 4
+  m_fontSize: 4.24
+  m_fontSizeBase: 4.24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 1
+  m_fontStyle: 0
   m_HorizontalAlignment: 1
   m_VerticalAlignment: 256
   m_textAlignment: 65535

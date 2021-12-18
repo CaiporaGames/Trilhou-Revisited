@@ -26,7 +26,7 @@ MonoBehaviour:
       de identificar o assunto definitivo da sua pesquisa. "
     names: "Bibliotec\xE1ria"
   - setences: 'exemplos: <color=red>Quem?, Onde?, Quando?, Como?, de que maneira?,
-      O que? Qual?</color>'
+      O que?, Qual?</color>'
     names: "Bibliotec\xE1ria"
   - setences: "Hum... Ent\xE3o vou fazer perguntas sobre minha pesquisa."
     names: "Maria Livr\xE3o"
