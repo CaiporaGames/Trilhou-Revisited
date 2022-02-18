@@ -11215,7 +11215,7 @@ PrefabInstance:
     - target: {fileID: 2347846455838395254, guid: 9a4b4c581b0a48e4ca62ad0db00e7d07,
         type: 3}
       propertyPath: m_text
-      value: "Usando a lanterna, encontre as 7 fontes de pesquisa que est\xE3o escondidos
+      value: "Usando a lanterna, encontre as 7 fontes de pesquisa que est\xE3o escondidas
         na sala escura. Clique nos objetos para pegar!"
       objectReference: {fileID: 0}
     - target: {fileID: 2347846455838395254, guid: 9a4b4c581b0a48e4ca62ad0db00e7d07,
